@@ -37,7 +37,7 @@ simplerag/
 │       └── qdrant_storage.py    # Qdrant vector database
 │
 └── query/                       # Query operations
-├── init.py
-├── operates.py                  # Core query operations
-└── simplerag.py                 # SimpleRAG-specific query functionality
+    ├── init.py
+    ├── operates.py              # Core query operations
+    └── simplerag.py             # SimpleRAG-specific query functionality
 ```
